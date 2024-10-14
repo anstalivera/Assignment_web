@@ -1,0 +1,90 @@
+/*Name:Mary Ansta Livera  Student Number:9029601*/
+
+body{
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+    padding: 10px;
+    font: 15px Times;
+    background-image: linear-gradient(90deg,rgb(237, 202, 208),rgb(192, 192, 243));
+}
+.header, .footer{
+    background-color: rgba(229, 239, 213, 0.5);
+    border: 2px solid black;
+    text-align: center;
+    border-radius: 6px;
+    padding: 15px;
+    margin: 20px;
+}
+.footer{
+    background-color: #373076;
+    color: white;
+}
+h1{
+    color:#681ce1;
+    font-variant: small-caps;
+}
+h2{
+    color: #ee2222;
+    font-variant: small-caps;
+}
+footer p{
+    font-size: 15px;
+    color: rgb(251, 245, 246);
+}
+main{
+    float: left;
+    width: 60%;
+    padding: 10px;
+}
+aside {
+    float: left;
+    width: 30%;
+    background-color: #cce0f5;
+    padding: 20px;
+    border-radius: 4px;
+    height: 1250px;
+    box-sizing: border-box;
+    top: 5px;
+
+}
+p{
+    font-size: 1em;
+    color: #333;
+}
+.mainimg{
+    width: 100%;
+    border: 2px  #666;
+    border-radius: 2px;
+}
+figcaption{
+    text-align: center;
+    color: #ec4d4d;
+    font-weight: bold;
+    font-variant: small-caps;
+}
+q{
+    font-family: cursive;
+    font-style: italic;
+    font-size: 1.2em;
+    color: #101f70;
+}
+ul li{
+    list-style: none;
+    line-height: 4em;
+    font-size: larger;
+}
+ul >li >a{
+    text-decoration: none;
+    color: #08720f;
+}
+aside a:hover{
+    color: #dd2b2b;
+}
+
+footer{
+    clear: both;
+}
+
+
+
